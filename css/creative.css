@@ -72,9 +72,16 @@ aside {
 .navbar-default .navbar-header .navbar-brand {
   color: #F05F40;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 25px;
   font-weight: 700;
-  text-transform: uppercase;
 }
+
+.navbar-default .navbar-header .navbar-brand .otherfont{
+  font-family: 'Combo', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 30px;
+}
+
+
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
   color: #eb3812;
